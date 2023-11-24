@@ -1,6 +1,6 @@
 // Заметки.js
 
-// Значения переменных получаем по id тегов(см. Заметки.html)
+// Значения переменных получаем по id тегов(см. index.html)
 let inputElement = document.getElementById("title")
 let addBtn = document.getElementById("add")
 let listElement = document.getElementById("list")
